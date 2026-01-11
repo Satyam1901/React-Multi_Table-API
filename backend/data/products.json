@@ -1,0 +1,145 @@
+[
+  { "id": 1, "name": "iPhone 15 Pro", "status": "active", "stock": 25 },
+  { "id": 2, "name": "MacBook Pro M3", "status": "active", "stock": 12 },
+  { "id": 3, "name": "iPad Air 5th", "status": "pending", "stock": 8 },
+  { "id": 4, "name": "Apple Watch Ultra", "status": "active", "stock": 18 },
+  { "id": 5, "name": "AirPods Pro 2", "status": "active", "stock": 35 },
+  { "id": 6, "name": "Mac Mini M2", "status": "out-of-stock", "stock": 0 },
+
+  { "id": 7, "name": "iPhone 14", "status": "active", "stock": 40 },
+  { "id": 8, "name": "iPhone 14 Plus", "status": "active", "stock": 22 },
+  { "id": 9, "name": "iPhone 14 Pro", "status": "active", "stock": 15 },
+  { "id": 10, "name": "iPhone 13", "status": "pending", "stock": 6 },
+
+  { "id": 11, "name": "MacBook Air M2", "status": "active", "stock": 20 },
+  { "id": 12, "name": "MacBook Air M1", "status": "active", "stock": 30 },
+  { "id": 13, "name": "MacBook Pro 14-inch", "status": "pending", "stock": 5 },
+  { "id": 14, "name": "MacBook Pro 16-inch", "status": "active", "stock": 9 },
+
+  { "id": 15, "name": "iPad Pro 11-inch", "status": "active", "stock": 14 },
+  { "id": 16, "name": "iPad Pro 12.9-inch", "status": "active", "stock": 7 },
+  { "id": 17, "name": "iPad 10th Gen", "status": "active", "stock": 28 },
+  { "id": 18, "name": "iPad Mini 6", "status": "pending", "stock": 4 },
+
+  { "id": 19, "name": "Apple Watch Series 9", "status": "active", "stock": 26 },
+  { "id": 20, "name": "Apple Watch SE", "status": "active", "stock": 32 },
+
+  { "id": 21, "name": "AirPods 3rd Gen", "status": "active", "stock": 45 },
+  { "id": 22, "name": "AirPods Max", "status": "pending", "stock": 3 },
+
+  { "id": 23, "name": "Mac Studio M2 Max", "status": "active", "stock": 6 },
+  { "id": 24, "name": "Mac Studio M2 Ultra", "status": "pending", "stock": 2 },
+  { "id": 25, "name": "iMac 24-inch M3", "status": "active", "stock": 10 },
+
+  { "id": 26, "name": "Apple TV 4K", "status": "active", "stock": 38 },
+  { "id": 27, "name": "HomePod 2nd Gen", "status": "active", "stock": 19 },
+  { "id": 28, "name": "HomePod Mini", "status": "active", "stock": 50 },
+
+  { "id": 29, "name": "Magic Keyboard", "status": "active", "stock": 60 },
+  { "id": 30, "name": "Magic Mouse", "status": "active", "stock": 55 },
+  { "id": 31, "name": "Magic Trackpad", "status": "active", "stock": 42 },
+
+  { "id": 32, "name": "Apple Pencil 2nd Gen", "status": "active", "stock": 33 },
+  { "id": 33, "name": "Apple Pencil USB-C", "status": "active", "stock": 27 },
+
+  { "id": 34, "name": "iPhone SE 3rd Gen", "status": "active", "stock": 21 },
+  { "id": 35, "name": "iPhone 12", "status": "pending", "stock": 5 },
+
+  { "id": 36, "name": "Mac Pro", "status": "pending", "stock": 1 },
+  { "id": 37, "name": "Pro Display XDR", "status": "pending", "stock": 2 },
+  { "id": 38, "name": "Studio Display", "status": "active", "stock": 8 },
+
+  { "id": 39, "name": "Leather iPhone Case", "status": "active", "stock": 80 },
+  { "id": 40, "name": "Silicone iPhone Case", "status": "active", "stock": 95 },
+
+  { "id": 41, "name": "Apple Watch Band Sport", "status": "active", "stock": 120 },
+  { "id": 42, "name": "Apple Watch Band Milanese", "status": "active", "stock": 25 },
+
+  { "id": 43, "name": "USB-C to Lightning Cable", "status": "active", "stock": 150 },
+  { "id": 44, "name": "USB-C Charging Adapter", "status": "active", "stock": 140 },
+
+  { "id": 45, "name": "MagSafe Charger", "status": "active", "stock": 60 },
+  { "id": 46, "name": "MagSafe Battery Pack", "status": "out-of-stock", "stock": 0 },
+
+  { "id": 47, "name": "AirTag 1 Pack", "status": "active", "stock": 75 },
+  { "id": 48, "name": "AirTag 4 Pack", "status": "active", "stock": 34 },
+
+  { "id": 49, "name": "Smart Folio iPad", "status": "active", "stock": 22 },
+  { "id": 50, "name": "Smart Keyboard Folio", "status": "pending", "stock": 6 },
+
+  { "id": 51, "name": "iPhone 15", "status": "active", "stock": 48 },
+  { "id": 52, "name": "iPhone 15 Plus", "status": "active", "stock": 29 },
+  { "id": 53, "name": "iPhone 15 Pro Max", "status": "active", "stock": 14 },
+
+  { "id": 54, "name": "Vision Pro", "status": "pending", "stock": 2 },
+  { "id": 55, "name": "Thunderbolt 4 Cable", "status": "active", "stock": 65 },
+
+  { "id": 56, "name": "USB-C Digital AV Adapter", "status": "active", "stock": 41 },
+  { "id": 57, "name": "MacBook Sleeve 14-inch", "status": "active", "stock": 23 },
+
+  { "id": 58, "name": "MacBook Sleeve 16-inch", "status": "active", "stock": 17 },
+  { "id": 59, "name": "Apple Cleaning Cloth", "status": "active", "stock": 200 },
+
+  { "id": 60, "name": "Lightning EarPods", "status": "active", "stock": 90 },
+
+  { "id": 61, "name": "USB-C EarPods", "status": "active", "stock": 85 },
+  { "id": 62, "name": "Apple TV Remote", "status": "active", "stock": 44 },
+
+  { "id": 63, "name": "Mac Mini M1", "status": "pending", "stock": 4 },
+  { "id": 64, "name": "iPad 9th Gen", "status": "active", "stock": 31 },
+
+  { "id": 65, "name": "Apple Watch Charger", "status": "active", "stock": 110 },
+  { "id": 66, "name": "MagSafe Duo Charger", "status": "out-of-stock", "stock": 0 },
+
+  { "id": 67, "name": "Apple Care+ iPhone", "status": "active", "stock": 999 },
+  { "id": 68, "name": "Apple Care+ Mac", "status": "active", "stock": 999 },
+
+  { "id": 69, "name": "Apple Care+ iPad", "status": "active", "stock": 999 },
+  { "id": 70, "name": "Apple Care+ Watch", "status": "active", "stock": 999 },
+
+  { "id": 71, "name": "Refurbished iPhone 13", "status": "pending", "stock": 7 },
+  { "id": 72, "name": "Refurbished MacBook Air", "status": "pending", "stock": 3 },
+
+  { "id": 73, "name": "Refurbished iPad Pro", "status": "pending", "stock": 2 },
+  { "id": 74, "name": "Refurbished Apple Watch", "status": "pending", "stock": 5 },
+
+  { "id": 75, "name": "Developer Strap Apple Watch", "status": "active", "stock": 12 },
+
+  { "id": 76, "name": "iPhone Clear Case", "status": "active", "stock": 70 },
+  { "id": 77, "name": "iPad Screen Protector", "status": "active", "stock": 95 },
+
+  { "id": 78, "name": "MacBook Screen Cleaner Kit", "status": "active", "stock": 50 },
+  { "id": 79, "name": "Apple USB SuperDrive", "status": "pending", "stock": 4 },
+
+  { "id": 80, "name": "Apple Ethernet Adapter", "status": "active", "stock": 27 },
+
+  { "id": 81, "name": "Apple Thunderbolt Display", "status": "out-of-stock", "stock": 0 },
+  { "id": 82, "name": "Apple Airport Express", "status": "out-of-stock", "stock": 0 },
+
+  { "id": 83, "name": "Apple Airport Extreme", "status": "out-of-stock", "stock": 0 },
+  { "id": 84, "name": "Apple Airport Time Capsule", "status": "out-of-stock", "stock": 0 },
+
+  { "id": 85, "name": "Apple Smart Battery Case", "status": "pending", "stock": 6 },
+  { "id": 86, "name": "Apple Wireless Charger", "status": "active", "stock": 48 },
+
+  { "id": 87, "name": "Apple USB-C Hub", "status": "active", "stock": 39 },
+  { "id": 88, "name": "Apple Multiport Adapter", "status": "active", "stock": 29 },
+
+  { "id": 89, "name": "Apple MacBook Stand", "status": "active", "stock": 21 },
+  { "id": 90, "name": "Apple iPad Stand", "status": "active", "stock": 24 },
+
+  { "id": 91, "name": "Apple Headphone Adapter", "status": "active", "stock": 130 },
+  { "id": 92, "name": "Apple USB-C to HDMI Cable", "status": "active", "stock": 36 },
+
+  { "id": 93, "name": "Apple USB-C to VGA Adapter", "status": "pending", "stock": 5 },
+  { "id": 94, "name": "Apple USB-C to SD Card Reader", "status": "active", "stock": 18 },
+
+  { "id": 95, "name": "Apple Keyboard with Touch ID", "status": "active", "stock": 16 },
+  { "id": 96, "name": "Apple Keyboard Numeric", "status": "active", "stock": 14 },
+
+  { "id": 97, "name": "Apple Magic Mouse Black", "status": "active", "stock": 11 },
+  { "id": 98, "name": "Apple Magic Trackpad Black", "status": "active", "stock": 9 },
+
+  { "id": 99, "name": "Apple Polishing Cloth (Bulk)", "status": "active", "stock": 500 },
+  { "id": 100, "name": "Apple Demo Unit iPhone", "status": "pending", "stock": 1 }
+]

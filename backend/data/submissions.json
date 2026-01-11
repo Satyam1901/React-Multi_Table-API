@@ -1,0 +1,455 @@
+[
+  {
+    "id": "1768065622244",
+    "timestamp": "2026-01-10T17:20:22.244Z",
+    "data1": [
+      {
+        "id": 22,
+        "name": "AirPods Max",
+        "status": "pending",
+        "stock": 3
+      },
+      {
+        "id": 21,
+        "name": "AirPods 3rd Gen",
+        "status": "active",
+        "stock": 45
+      },
+      {
+        "id": 26,
+        "name": "Apple TV 4K",
+        "status": "active",
+        "stock": 38
+      },
+      {
+        "id": 28,
+        "name": "HomePod Mini",
+        "status": "active",
+        "stock": 50
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT001",
+        "category": "Electronics",
+        "price": 999,
+        "discount": 10
+      },
+      {
+        "id": "CAT002",
+        "category": "Clothing",
+        "price": 49,
+        "discount": 20
+      },
+      {
+        "id": "CAT003",
+        "category": "Books",
+        "price": 19,
+        "discount": 5
+      }
+    ],
+    "totalCount": 7,
+    "status": "send"
+  },
+  {
+    "id": "1768065310963",
+    "timestamp": "2026-01-10T17:15:10.963Z",
+    "data1": [
+      {
+        "id": 5,
+        "name": "AirPods Pro 2",
+        "status": "active",
+        "stock": 35
+      },
+      {
+        "id": 4,
+        "name": "Apple Watch Ultra",
+        "status": "active",
+        "stock": 18
+      },
+      {
+        "id": 3,
+        "name": "iPad Air 5th",
+        "status": "pending",
+        "stock": 8
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT054",
+        "category": "Toys",
+        "price": 65,
+        "discount": 30
+      },
+      {
+        "id": "CAT053",
+        "category": "Sports",
+        "price": 110,
+        "discount": 24
+      },
+      {
+        "id": "CAT049",
+        "category": "Electronics",
+        "price": 1199,
+        "discount": 16
+      },
+      {
+        "id": "CAT003",
+        "category": "Books",
+        "price": 19,
+        "discount": 5
+      },
+      {
+        "id": "CAT002",
+        "category": "Clothing",
+        "price": 49,
+        "discount": 20
+      },
+      {
+        "id": "CAT004",
+        "category": "Home & Garden",
+        "price": 299,
+        "discount": 15
+      }
+    ],
+    "totalCount": 9,
+    "status": "send"
+  },
+  {
+    "id": "1768064819434",
+    "timestamp": "2026-01-10T17:06:59.434Z",
+    "data1": [],
+    "data2": [],
+    "totalCount": 0,
+    "status": "send"
+  },
+  {
+    "id": "1768064803785",
+    "timestamp": "2026-01-10T17:06:43.785Z",
+    "data1": [
+      {
+        "id": 6,
+        "name": "Mac Mini M2",
+        "status": "out-of-stock",
+        "stock": 0
+      },
+      {
+        "id": 5,
+        "name": "AirPods Pro 2",
+        "status": "active",
+        "stock": 35
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT002",
+        "category": "Clothing",
+        "price": 49,
+        "discount": 20
+      },
+      {
+        "id": "CAT003",
+        "category": "Books",
+        "price": 19,
+        "discount": 5
+      }
+    ],
+    "totalCount": 4,
+    "status": "send"
+  },
+  {
+    "id": "1768060063270",
+    "timestamp": "2026-01-10T15:47:43.270Z",
+    "data1": [
+      {
+        "id": 2,
+        "name": "MacBook Pro M3",
+        "status": "active",
+        "stock": 12
+      },
+      {
+        "id": 3,
+        "name": "iPad Air 5th",
+        "status": "pending",
+        "stock": 8
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT004",
+        "category": "Home & Garden",
+        "price": 299,
+        "discount": 15
+      },
+      {
+        "id": "CAT003",
+        "category": "Books",
+        "price": 19,
+        "discount": 5
+      }
+    ],
+    "totalCount": 4,
+    "status": "send"
+  },
+  {
+    "id": "1768057923883",
+    "timestamp": "2026-01-10T15:12:03.883Z",
+    "data1": [
+      {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "status": "active",
+        "stock": 25
+      },
+      {
+        "id": 2,
+        "name": "MacBook Pro M3",
+        "status": "active",
+        "stock": 12
+      },
+      {
+        "id": 3,
+        "name": "iPad Air 5th",
+        "status": "pending",
+        "stock": 8
+      },
+      {
+        "id": 4,
+        "name": "Apple Watch Ultra",
+        "status": "active",
+        "stock": 18
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT001",
+        "category": "Electronics",
+        "price": 999,
+        "discount": 10
+      },
+      {
+        "id": "CAT002",
+        "category": "Clothing",
+        "price": 49,
+        "discount": 20
+      },
+      {
+        "id": "CAT004",
+        "category": "Home & Garden",
+        "price": 299,
+        "discount": 15
+      },
+      {
+        "id": "CAT003",
+        "category": "Books",
+        "price": 19,
+        "discount": 5
+      },
+      {
+        "id": "CAT006",
+        "category": "Toys",
+        "price": 29,
+        "discount": 30
+      }
+    ],
+    "totalCount": 9,
+    "status": "send"
+  },
+  {
+    "id": "1768056260963",
+    "timestamp": "2026-01-10T14:44:20.963Z",
+    "data1": [
+      {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "status": "active",
+        "stock": 25
+      },
+      {
+        "id": 2,
+        "name": "MacBook Pro M3",
+        "status": "active",
+        "stock": 12
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT001",
+        "category": "Electronics",
+        "price": 999,
+        "discount": 10
+      },
+      {
+        "id": "CAT002",
+        "category": "Clothing",
+        "price": 49,
+        "discount": 20
+      }
+    ],
+    "totalCount": 4,
+    "status": "send"
+  },
+  {
+    "id": "1768056113109",
+    "timestamp": "2026-01-10T14:41:53.109Z",
+    "data1": [
+      {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "status": "active",
+        "stock": 25
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT003",
+        "category": "Books",
+        "price": 19,
+        "discount": 5
+      },
+      {
+        "id": "CAT005",
+        "category": "Sports",
+        "price": 89,
+        "discount": 25
+      },
+      {
+        "id": "CAT006",
+        "category": "Toys",
+        "price": 29,
+        "discount": 30
+      }
+    ],
+    "totalCount": 4,
+    "status": "send"
+  },
+  {
+    "id": "1768055434389",
+    "timestamp": "2026-01-10T14:30:34.389Z",
+    "data1": [],
+    "data2": [
+      {
+        "id": "CAT004",
+        "category": "Home & Garden",
+        "price": 299,
+        "discount": 15
+      },
+      {
+        "id": "CAT005",
+        "category": "Sports",
+        "price": 89,
+        "discount": 25
+      },
+      {
+        "id": "CAT006",
+        "category": "Toys",
+        "price": 29,
+        "discount": 30
+      }
+    ],
+    "totalCount": 3,
+    "status": "send"
+  },
+  {
+    "id": "1768055113158",
+    "timestamp": "2026-01-10T14:25:13.158Z",
+    "data1": [],
+    "data2": [],
+    "totalCount": 0,
+    "status": "send"
+  },
+  {
+    "id": "1768055104939",
+    "timestamp": "2026-01-10T14:25:04.939Z",
+    "data1": [
+      {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "status": "active",
+        "stock": 25
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT002",
+        "category": "Clothing",
+        "price": 49,
+        "discount": 20
+      },
+      {
+        "id": "CAT003",
+        "category": "Books",
+        "price": 19,
+        "discount": 5
+      }
+    ],
+    "totalCount": 3,
+    "status": "send"
+  },
+  {
+    "id": "1768054945665",
+    "timestamp": "2026-01-10T14:22:25.665Z",
+    "data1": [],
+    "data2": [],
+    "totalCount": 0,
+    "status": "send"
+  },
+  {
+    "id": "1768054935947",
+    "timestamp": "2026-01-10T14:22:15.947Z",
+    "data1": [
+      {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "status": "active",
+        "stock": 25
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT001",
+        "category": "Electronics",
+        "price": 999,
+        "discount": 10
+      },
+      {
+        "id": "CAT002",
+        "category": "Clothing",
+        "price": 49,
+        "discount": 20
+      }
+    ],
+    "totalCount": 3,
+    "status": "send"
+  },
+  {
+    "id": "1768054514868",
+    "timestamp": "2026-01-10T14:15:14.868Z",
+    "data1": [],
+    "data2": [],
+    "totalCount": 0,
+    "status": "send"
+  },
+  {
+    "id": "1768054451859",
+    "timestamp": "2026-01-10T14:14:11.859Z",
+    "data1": [
+      {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "status": "active",
+        "stock": 25
+      }
+    ],
+    "data2": [
+      {
+        "id": "CAT004",
+        "category": "Home & Garden",
+        "price": 299,
+        "discount": 15
+      }
+    ],
+    "totalCount": 2,
+    "status": "send"
+  }
+]

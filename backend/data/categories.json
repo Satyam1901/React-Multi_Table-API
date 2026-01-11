@@ -1,0 +1,398 @@
+[
+  {
+    "id": "CAT001",
+    "category": "Electronics",
+    "price": 999,
+    "discount": 10
+  },
+  {
+    "id": "CAT002",
+    "category": "Clothing",
+    "price": 49,
+    "discount": 20
+  },
+  {
+    "id": "CAT003",
+    "category": "Books",
+    "price": 19,
+    "discount": 5
+  },
+  {
+    "id": "CAT004",
+    "category": "Home & Garden",
+    "price": 299,
+    "discount": 15
+  },
+  {
+    "id": "CAT005",
+    "category": "Sports",
+    "price": 89,
+    "discount": 25
+  },
+  {
+    "id": "CAT006",
+    "category": "Toys",
+    "price": 29,
+    "discount": 30
+  },
+  {
+    "id": "CAT001",
+    "category": "Electronics",
+    "price": 999,
+    "discount": 10
+  },
+  {
+    "id": "CAT002",
+    "category": "Clothing",
+    "price": 49,
+    "discount": 20
+  },
+  {
+    "id": "CAT003",
+    "category": "Books",
+    "price": 19,
+    "discount": 5
+  },
+  {
+    "id": "CAT004",
+    "category": "Home & Garden",
+    "price": 299,
+    "discount": 15
+  },
+  {
+    "id": "CAT005",
+    "category": "Sports",
+    "price": 89,
+    "discount": 25
+  },
+  {
+    "id": "CAT006",
+    "category": "Toys",
+    "price": 29,
+    "discount": 30
+  },
+  {
+    "id": "CAT007",
+    "category": "Electronics",
+    "price": 799,
+    "discount": 12
+  },
+  {
+    "id": "CAT008",
+    "category": "Clothing",
+    "price": 59,
+    "discount": 18
+  },
+  {
+    "id": "CAT009",
+    "category": "Books",
+    "price": 25,
+    "discount": 8
+  },
+  {
+    "id": "CAT010",
+    "category": "Home & Garden",
+    "price": 199,
+    "discount": 20
+  },
+  {
+    "id": "CAT011",
+    "category": "Sports",
+    "price": 120,
+    "discount": 22
+  },
+  {
+    "id": "CAT012",
+    "category": "Toys",
+    "price": 35,
+    "discount": 28
+  },
+  {
+    "id": "CAT013",
+    "category": "Electronics",
+    "price": 1299,
+    "discount": 15
+  },
+  {
+    "id": "CAT014",
+    "category": "Clothing",
+    "price": 39,
+    "discount": 25
+  },
+  {
+    "id": "CAT015",
+    "category": "Books",
+    "price": 15,
+    "discount": 5
+  },
+  {
+    "id": "CAT016",
+    "category": "Home & Garden",
+    "price": 349,
+    "discount": 10
+  },
+  {
+    "id": "CAT017",
+    "category": "Sports",
+    "price": 75,
+    "discount": 30
+  },
+  {
+    "id": "CAT018",
+    "category": "Toys",
+    "price": 45,
+    "discount": 20
+  },
+  {
+    "id": "CAT019",
+    "category": "Electronics",
+    "price": 599,
+    "discount": 18
+  },
+  {
+    "id": "CAT020",
+    "category": "Clothing",
+    "price": 89,
+    "discount": 15
+  },
+  {
+    "id": "CAT021",
+    "category": "Books",
+    "price": 22,
+    "discount": 7
+  },
+  {
+    "id": "CAT022",
+    "category": "Home & Garden",
+    "price": 259,
+    "discount": 12
+  },
+  {
+    "id": "CAT023",
+    "category": "Sports",
+    "price": 150,
+    "discount": 20
+  },
+  {
+    "id": "CAT024",
+    "category": "Toys",
+    "price": 55,
+    "discount": 25
+  },
+  {
+    "id": "CAT025",
+    "category": "Electronics",
+    "price": 899,
+    "discount": 10
+  },
+  {
+    "id": "CAT026",
+    "category": "Clothing",
+    "price": 69,
+    "discount": 18
+  },
+  {
+    "id": "CAT027",
+    "category": "Books",
+    "price": 30,
+    "discount": 10
+  },
+  {
+    "id": "CAT028",
+    "category": "Home & Garden",
+    "price": 399,
+    "discount": 20
+  },
+  {
+    "id": "CAT029",
+    "category": "Sports",
+    "price": 99,
+    "discount": 25
+  },
+  {
+    "id": "CAT030",
+    "category": "Toys",
+    "price": 60,
+    "discount": 30
+  },
+  {
+    "id": "CAT031",
+    "category": "Electronics",
+    "price": 1499,
+    "discount": 8
+  },
+  {
+    "id": "CAT032",
+    "category": "Clothing",
+    "price": 45,
+    "discount": 22
+  },
+  {
+    "id": "CAT033",
+    "category": "Books",
+    "price": 18,
+    "discount": 6
+  },
+  {
+    "id": "CAT034",
+    "category": "Home & Garden",
+    "price": 279,
+    "discount": 15
+  },
+  {
+    "id": "CAT035",
+    "category": "Sports",
+    "price": 199,
+    "discount": 18
+  },
+  {
+    "id": "CAT036",
+    "category": "Toys",
+    "price": 25,
+    "discount": 35
+  },
+  {
+    "id": "CAT037",
+    "category": "Electronics",
+    "price": 1099,
+    "discount": 12
+  },
+  {
+    "id": "CAT038",
+    "category": "Clothing",
+    "price": 99,
+    "discount": 20
+  },
+  {
+    "id": "CAT039",
+    "category": "Books",
+    "price": 28,
+    "discount": 9
+  },
+  {
+    "id": "CAT040",
+    "category": "Home & Garden",
+    "price": 499,
+    "discount": 25
+  },
+  {
+    "id": "CAT041",
+    "category": "Sports",
+    "price": 135,
+    "discount": 22
+  },
+  {
+    "id": "CAT042",
+    "category": "Toys",
+    "price": 70,
+    "discount": 15
+  },
+  {
+    "id": "CAT043",
+    "category": "Electronics",
+    "price": 649,
+    "discount": 14
+  },
+  {
+    "id": "CAT044",
+    "category": "Clothing",
+    "price": 55,
+    "discount": 17
+  },
+  {
+    "id": "CAT045",
+    "category": "Books",
+    "price": 35,
+    "discount": 12
+  },
+  {
+    "id": "CAT046",
+    "category": "Home & Garden",
+    "price": 189,
+    "discount": 10
+  },
+  {
+    "id": "CAT047",
+    "category": "Sports",
+    "price": 175,
+    "discount": 20
+  },
+  {
+    "id": "CAT048",
+    "category": "Toys",
+    "price": 40,
+    "discount": 28
+  },
+  {
+    "id": "CAT049",
+    "category": "Electronics",
+    "price": 1199,
+    "discount": 16
+  },
+  {
+    "id": "CAT050",
+    "category": "Clothing",
+    "price": 79,
+    "discount": 19
+  },
+  {
+    "id": "CAT051",
+    "category": "Books",
+    "price": 21,
+    "discount": 5
+  },
+  {
+    "id": "CAT052",
+    "category": "Home & Garden",
+    "price": 329,
+    "discount": 18
+  },
+  {
+    "id": "CAT053",
+    "category": "Sports",
+    "price": 110,
+    "discount": 24
+  },
+  {
+    "id": "CAT054",
+    "category": "Toys",
+    "price": 65,
+    "discount": 30
+  },
+  {
+    "id": "CAT055",
+    "category": "Electronics",
+    "price": 899,
+    "discount": 11
+  },
+  {
+    "id": "CAT056",
+    "category": "Clothing",
+    "price": 35,
+    "discount": 25
+  },
+  {
+    "id": "CAT057",
+    "category": "Books",
+    "price": 17,
+    "discount": 6
+  },
+  {
+    "id": "CAT058",
+    "category": "Home & Garden",
+    "price": 420,
+    "discount": 22
+  },
+  {
+    "id": "CAT059",
+    "category": "Sports",
+    "price": 160,
+    "discount": 19
+  },
+  {
+    "id": "CAT060",
+    "category": "Toys",
+    "price": 85,
+    "discount": 20
+  }
+]
